@@ -495,7 +495,7 @@ header .navbar-light .navbar-nav .nav-link:hover:before, .navbar-light .navbar-n
 header .navbar-light .nav { position: relative; }
 header .navbar-light .nav:before { content: ""; position: absolute; top: 5px; left: 5px; height: 25px; width: 1px; display: inline-block; background: #c7c7c7; }
 header .navbar-light .nav .button:hover, header .navbar-light .nav .button:focus { color: #131519; }
-header.menu-sticky { position: fixed; background: #131519; padding: 10px 30px; box-shadow: 0px 0px 30px 0px rgba(255, 255, 255, 0.1); }
+header.menu-sticky { position: fixed; background: #3b69c5; padding: 10px 30px; box-shadow: 0px 0px 30px 0px rgba(255, 255, 255, 0.1); }
 .dropdown-item.active, .dropdown-item:active { background: #f9b707; }
 
 /*Login*/
